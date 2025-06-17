@@ -1,4 +1,4 @@
-Offensive Security Specialist from Chile 🇨🇱 with professional experience in penetration testing, vulnerability research, and red team operations.
+19-year-old Offensive Security Specialist from Chile 🇨🇱 with professional experience in penetration testing, vulnerability research, and red team operations.
 
 I focus on web application security, mobile app assessments, network penetration testing, and exploit development across diverse environments and complex infrastructures.
 
